@@ -1,0 +1,14 @@
+---
+#System Settings
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+
+#MySQL Settings
+mysql_root_password: "gtavicecity"
+mysql_db: "wp_db"
+mysql_user: "wp_user"
+mysql_password: "gtavicecity"
+
+#HTTP Settings
+http_host: "demo.com"
+http_conf: "demo.com.conf"
+http_port: "80"
